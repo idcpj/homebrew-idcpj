@@ -9,7 +9,7 @@ class Ferebook < Formula
   license "GPL-3.0"
   version "0.0.1"
   
-  #bottle :unneeded
+  bottle :unneeded
 
 
   # depends_on "cmake" => :build
