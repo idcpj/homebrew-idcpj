@@ -5,7 +5,7 @@ class Ferebook < Formula
   desc " download ferebook"
   homepage ""
   url "https://github.com/idcpj/ferebook/releases/download/0.01/ferebook_mac_x86_64.tar.gz"
-  sha256 "6e2afff5e5909ae1849bb47b69fcc2f2258e400d88d6fc69acce303ffa6ec9d7"
+  sha256 "b6b7e1661d86f30e01f793adfc53f26f3d89988fd21da514976fd9f10f6ba2a5"
   license "GPL-3.0"
   version "0.0.1"
   
